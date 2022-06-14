@@ -207,7 +207,7 @@ controller class.<br>It no longer need to specify the method.</h2></p>
         
     <div class="content">
         <section id="section5">
-            <h2 class="contact">You Can Contact Me <br><br> <i class="bi bi-facebook"> Facebook: https://www.facebook.com/liezel.guemo <br> <i class="bi bi-instagram"> Instagram: @lilisel <br> <i class="bi bi-messenger"> Messenger: Liezel Guemo</i></i></i></h2>
+            <h2 class="contact">You Can Contact Me <br><br> <i class="bi bi-facebook"> Facebook: https://www.facebook.com/liezel.guemo <br> <i class="bi bi-instagram"> Instagram: @_lilisel <br> <i class="bi bi-messenger"> Messenger: Liezel Guemo</i></i></i></h2>
         </section>
     </div>
 
