@@ -41,7 +41,7 @@ html {
 ul {
     list-style:none;
     height:100%;
-    width:120px;
+    width:110px;
     position:fixed;
     top: 0; left: 5px;
     background:crimson;
@@ -68,7 +68,7 @@ ul li a:hover{
 
 section{
     height: 100vh;
-    width: 100vw;
+    width: 90vw;
     display: flex;
     align-items: center;
     justify-content:center;
