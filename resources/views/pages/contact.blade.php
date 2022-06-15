@@ -198,13 +198,14 @@ controller class.<br>It no longer need to specify the method.</h2></p>
     </section>
 </div>
     
-<div class="content" style="display:none">
-    <section id="section4">
-        <h2 class="about"><b>About Me <br><br> <p class="about1"> Hi! I am Liezel Guemo, you can call me zel or sel. 21 years old. 
-            <br>I live at barangay Santolan Pasig City and currently a 3rd year college student taking a <br>Bachelor of Science in Computer Science at Pamantasan ng Lungsod ng Pasig. 
-        <br><br> 6 years from now, I see myself doing the things that I loved and surely doing my best. <br>To be exact, doing the things that would help my family and give them everything they want and needs.</h2></p></b>
-    </section>
-</div>
+    <div class="content">
+        <section id="section4" style="display:none">
+            <h2 class="about"><b>About Me <br><br> <p class="about1"> Hi! I am Liezel Guemo, you can call me zel or sel. 21 years old. 
+                <br>I live at barangay Santolan Pasig City and currently a 3rd year college student taking a <br>Bachelor of Science in Computer Science at Pamantasan ng Lungsod ng Pasig. 
+            <br><br> 6 years from now, I see myself doing the things that I loved and surely doing my best. <br> 
+            I also see myself successfully taking the dream I have long wanted and looking forward for more opportunities <br>coming into my life and especially I will help my family to provide the things they want and needs.</h2></p></b>
+        </section>
+    </div>
     
 <div class="content">
     <section id="section5">
